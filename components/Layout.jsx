@@ -1,4 +1,4 @@
-import Navbar from './Navbar';
+import Navbar from './navbar/Navbar';
 import Meta from './Meta';
 import Footer from './Footer';
 

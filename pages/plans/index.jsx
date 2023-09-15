@@ -1,4 +1,4 @@
-import React from 'react'
+import style from "./plans.module.css";
 
 function index() {
   return (

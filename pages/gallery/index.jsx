@@ -1,4 +1,4 @@
-import React from 'react'
+import style from "./gallery.module.css";
 
 function index() {
   return (
